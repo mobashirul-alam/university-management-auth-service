@@ -1,5 +1,6 @@
 import { Request, Response } from 'express'
 import usersService from './users.service'
+import logger from '../../../shared/logger'
 
 const createUser = async (req: Request, res: Response) => {
   try {
@@ -15,7 +16,7 @@ const createUser = async (req: Request, res: Response) => {
       success: false,
       message: 'Failed to create user',
     })
-    console.log(err)
+    logger.error(err)
   }
 }
 
