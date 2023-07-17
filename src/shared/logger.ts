@@ -17,10 +17,6 @@ const logger = createLogger({
   format: combine(label({ label: 'BU' }), timestamp(), myFormat, prettyPrint()),
   transports: [
     new transports.Console(),
-    // new transports.File({
-    //   filename: path.join(process.cwd(), 'logs', 'winston', 'success.log'),
-    //   level: 'info',
-    // }),
     new DailyRotateFile({
       filename: path.join(
         process.cwd(),

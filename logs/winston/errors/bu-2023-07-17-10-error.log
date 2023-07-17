@@ -1,0 +1,6 @@
+{ level: 'error', label: 'BU', timestamp: '2023-07-17T04:19:30.134Z' }
+{ level: 'error', label: 'BU', timestamp: '2023-07-17T04:26:11.308Z' }
+{ level: 'error', label: 'BU', timestamp: '2023-07-17T04:28:29.155Z' }
+{ level: 'error', label: 'BU', timestamp: '2023-07-17T04:33:26.248Z' }
+{ level: 'error', label: 'BU', timestamp: '2023-07-17T04:54:50.317Z' }
+Mon Jul 17 2023 10:58:1 [BU] error: Unhandled promise rejected
