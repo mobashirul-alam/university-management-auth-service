@@ -2,143 +2,131 @@
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:16:38.770Z'
+  timestamp: '2023-07-17T15:08:24.011Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:16:38.790Z'
+  timestamp: '2023-07-17T15:08:24.018Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:17:59.604Z'
+  timestamp: '2023-07-17T15:10:57.398Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:17:59.609Z'
+  timestamp: '2023-07-17T15:10:57.404Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:18:45.239Z'
+  timestamp: '2023-07-17T15:12:36.548Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:18:45.251Z'
+  timestamp: '2023-07-17T15:12:36.563Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:19:08.587Z'
+  timestamp: '2023-07-17T15:14:10.056Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:19:08.615Z'
+  timestamp: '2023-07-17T15:14:10.072Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:39:42.410Z'
+  timestamp: '2023-07-17T15:23:52.818Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:39:42.417Z'
+  timestamp: '2023-07-17T15:23:52.826Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:42:54.941Z'
+  timestamp: '2023-07-17T15:24:02.297Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:42:54.951Z'
+  timestamp: '2023-07-17T15:24:02.311Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:43:37.233Z'
+  timestamp: '2023-07-17T15:24:05.581Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:43:37.248Z'
+  timestamp: '2023-07-17T15:24:05.595Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:45:13.074Z'
+  timestamp: '2023-07-17T15:24:11.916Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:45:13.080Z'
+  timestamp: '2023-07-17T15:24:11.922Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:46:36.740Z'
+  timestamp: '2023-07-17T15:24:22.650Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:46:36.747Z'
+  timestamp: '2023-07-17T15:24:22.657Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:46:51.735Z'
+  timestamp: '2023-07-17T15:26:56.446Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:46:51.741Z'
+  timestamp: '2023-07-17T15:26:56.454Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:47:41.524Z'
+  timestamp: '2023-07-17T15:48:56.389Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   label: 'BU',
-  timestamp: '2023-07-17T12:47:41.535Z'
-}
-{
-  message: 'Database is connected successfully',
-  level: 'info',
-  label: 'BU',
-  timestamp: '2023-07-17T12:53:44.377Z'
-}
-{
-  message: 'Application is listening on port 5000',
-  level: 'info',
-  label: 'BU',
-  timestamp: '2023-07-17T12:53:44.383Z'
+  timestamp: '2023-07-17T15:48:56.395Z'
 }
