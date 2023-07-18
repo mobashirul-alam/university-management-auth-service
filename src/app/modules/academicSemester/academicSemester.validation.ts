@@ -5,7 +5,7 @@ import {
   academicSemesterTitles,
 } from './academicSemester.constant';
 
-// zod validation for req
+// zod validation for create academic semester req
 const createAcademicSemesterZodSchema = z.object({
   body: z.object({
     title: z.enum([...academicSemesterTitles] as [string, ...string[]], {
