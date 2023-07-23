@@ -1,7 +1,7 @@
 import express from 'express';
 import { AcademicSemesterValidation } from './academicSemester.validation';
 import validateRequest from '../../middlewares/validateRequest';
-import { AcademicSemesterController } from './academicSemesterController';
+import { AcademicSemesterController } from './academicSemester.controller';
 const router = express.Router();
 
 router.post(
@@ -9,5 +9,7 @@ router.post(
   validateRequest(AcademicSemesterValidation.createAcademicSemesterZodSchema),
   AcademicSemesterController.createSemester,
 );
+
+router.get('/', AcademicSemesterController.getAllSemesters);
 
 export const AcademicSemesterRoutes = router;
