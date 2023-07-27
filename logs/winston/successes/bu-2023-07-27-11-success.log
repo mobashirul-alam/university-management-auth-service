@@ -82,3 +82,15 @@
   label: 'BU',
   timestamp: '2023-07-27T05:14:05.859Z'
 }
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'BU',
+  timestamp: '2023-07-27T05:15:27.729Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'BU',
+  timestamp: '2023-07-27T05:15:27.737Z'
+}
